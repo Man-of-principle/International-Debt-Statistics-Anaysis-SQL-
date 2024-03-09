@@ -1,6 +1,6 @@
-# International Debt Statistics Anaysis (SQL)
+# International Debt Statistics Analysis (SQL)
 
-- **This is a DataCamp guided project.**
+- **This is a DataCamp-guided project.**
 
 *Click [here](https://github.com/Man-of-principle/International-Debt-Statistics-Anaysis-SQL-/blob/main/Analyze%20International%20Debt%20Statistics%20Notebook%20.ipynb) to access my solutions (notebook)*
 -------
